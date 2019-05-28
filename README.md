@@ -1,1 +1,1 @@
-# Titanic-Kaggle
+# Titanic: Machine Learning-Kaggle
